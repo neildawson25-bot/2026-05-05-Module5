@@ -15,6 +15,6 @@ class Calculator:
     def get_division(self):
         return self.a / self.b
 
-
-        myCalc = Calculator(a=3,b=5)
-        print(myCalc.get_division())
+if __name__ == "__main__":
+    myCalc = Calculator(a=3,b=5)
+    print(myCalc.get_division())
