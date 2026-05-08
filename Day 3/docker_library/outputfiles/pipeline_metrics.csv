@@ -1,0 +1,12 @@
+Metric,Value
+Original Customer Records,9
+Original Book Records,114
+Final Customer Records,8
+Final Book Records,18
+Customer Duplicate Rows Removed,0
+Book Duplicate Rows Removed,92
+Customer Missing Rows Removed,1
+Book Missing Rows Removed,2
+Invalid Customer Rows Removed,2
+Overdue Books,4
+Date Errors,5
